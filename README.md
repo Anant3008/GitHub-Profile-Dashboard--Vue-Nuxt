@@ -15,6 +15,12 @@ A modern, responsive GitHub profile explorer built with **Nuxt 3** and **Vue 3**
 - **SEO Ready** — Dynamic `<head>` meta tags, Open Graph support, emoji favicon
 - **Rate Limit Handling** — Friendly error message when GitHub API limit is reached
 
+## 🚀 Live Demo
+
+**[github-profile-dashboard-vue-nuxt-production.up.railway.app](https://github-profile-dashboard-vue-nuxt-production.up.railway.app)**
+
+Try searching for popular GitHub users like `torvalds`, `gaearon`, or `linus`.
+
 ## Tech Stack
 
 | Layer | Technology |
