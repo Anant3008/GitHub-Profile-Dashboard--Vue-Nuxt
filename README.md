@@ -72,10 +72,6 @@ The app uses **CSS custom properties** defined on `html` (light) and `html.dark`
 - Fetches up to 100 repos from `/users/{username}/repos?sort=updated&per_page=100`
 - Rate limit errors are detected and shown with a friendly message
 
-## Screenshots
-
-> Run the app locally and explore light + dark modes!
-
 ---
 
 Built by **Anant**
